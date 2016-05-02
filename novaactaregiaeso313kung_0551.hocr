@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso313kung_0551.png"; bbox 0 0 2042 3033; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 98 652 1733 987">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 98 652 1733 987">
+     <span class='ocr_line' id='line_1_1' title="bbox 528 652 1301 711; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 528 654 649 710; x_wconf 78' lang='lat' dir='ltr'><strong>SUR</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 689 654 812 711; x_wconf 84' lang='lat' dir='ltr'><strong>UNE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 852 652 1301 711; x_wconf 77' lang='lat' dir='ltr'><strong>APPLICATION</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 98 859 1733 987; baseline -0.001 -36"><span class='ocrx_word' id='word_1_4' title='bbox 98 879 190 951; x_wconf 80' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 247 879 365 987; x_wconf 70' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 402 859 714 951; x_wconf 74' lang='lat' dir='ltr'><strong>THEORIE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 774 878 906 951; x_wconf 73' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 964 859 1359 965; x_wconf 75' lang='lat' dir='ltr'>EQUATIONS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1426 859 1733 949; x_wconf 75' lang='lat' dir='ltr'>BINOMES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 208 1097 1621 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 1097 1621 1184">
+     <span class='ocr_line' id='line_1_3' title="bbox 208 1097 1621 1184; baseline -0.001 -9"><span class='ocrx_word' id='word_1_10' title='bbox 208 1097 245 1175; x_wconf 65' lang='grc' dir='ltr'><strong>Α</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 288 1119 368 1175; x_wconf 80' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 411 1117 807 1175; x_wconf 72' lang='lat' dir='ltr'><strong>SOMMATION</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 851 1118 931 1174; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 976 1116 1333 1184; x_wconf 78' lang='lat' dir='ltr'>QUELQUES</span> <span class='ocrx_word' id='word_1_15' title='bbox 1377 1105 1621 1174; x_wconf 72' lang='lat' dir='ltr'>SERIES.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 723 1576 1107 1616">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 723 1576 1107 1616">
+     <span class='ocr_line' id='line_1_4' title="bbox 723 1576 1107 1616; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 723 1579 778 1616; x_wconf 94' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 816 1576 1107 1616; x_wconf 80' lang='lat' dir='ltr'><strong>BERGER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 869 2546 961 2614">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 869 2546 961 2614">
+     <span class='ocr_line' id='line_1_5' title="bbox 869 2546 959 2564; baseline 0.011 -1"><span class='ocrx_word' id='word_1_18' title='bbox 869 2546 959 2564; x_wconf 65' lang='lat' dir='ltr'>Pluma</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 870 2586 961 2614; baseline 0.011 -1"><span class='ocrx_word' id='word_1_19' title='bbox 870 2586 961 2614; x_wconf 83' lang='grc'><strong>88888</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

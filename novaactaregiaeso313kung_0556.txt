@@ -1,0 +1,50 @@
+4 A. BERGER,
+
+Ces deux formules sont vraies pour tontes les valeurs reelles de
+la variable m, qui satisfont aux conditions (8)
+Dans 66 memoire je donnerai aux notations
+
+aretg Z ‚ loga ,
+
+oh z designe une quantite quelconque, une signification precise de la
+maniere suivante3 la partie reelle R dans la premiere de ces expressions
+sera tellement choisie, que l'on aura toujours
+
+-}<R2}2
+
+et la partie imagin-dire J dans la seconde expression satisfera ἐι la *con-
+dition
+
+—n<g§n.
+
+Z
+
+Cela pose, les deux expressions ei-clesstls sont des fonctions bien
+determinees de la vari-able z, et entre ees deux fonctions on aura pour
+tontes les valeurs de la variable ε la relation
+
+(15) are tg z :21—2, loo· l—ss-Z-Zss .
+
+Si l⁷0n multiplie les deux membres des equations (13) et (14) par
+εἷα* et qu'on les integre ensuite entre les limites O et sc, on aura pour Δ>Ο
+
+ 
+
+ 
+
+ 
+
+'’⁴²oe (6¹¹¹ 1 *ΞΔ-1 2 Ιεῑπ
+(16) Σ (A) “ = — — Σ (Α) log (l - 2ae cos 4- «7:2) ,
+m=1 7η ’ΠΖ 2 'v Δ Ι k=1 li) Δ
+et pour Δ < O
+- 2lc71
+’,ιιι m ι-ςψΔηι (Β Sln
+(17) Σ (Α) L— = ἑ Σ (A) arc tg j———ss fl
+m=1 m m 'V — Δ Ι Μ Α,- l — w COS Q
+—A
+
+pour tontes les valeurs de zv comprises entre -- 1 et -1-1. Ces formules
+subsistent meme pour zv :³ ss 1, car les series dans les premiers membres -
+restent convergentes pour ees valetus, et elles sont e'videmment des
+

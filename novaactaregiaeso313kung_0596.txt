@@ -1,0 +1,48 @@
+6 KNUT ᾸΝΟΞΤΒὸΜ,
+
+ou, si l'on developpe ees equations en series
+
+ 
+
+ 
+
+. . Η
+«ψ >⁷
+et
+d'on
+(11) T=t†t⁴²}k(1÷{}<S¹—S)†ggz<¹n†s²)÷ ..... )
+
+Comme on peut toujours donner ὲ ἀ une valeur < 1, et comme
+
+8 est une petite quantit& et ses variations pentes, il s'ensuit, que cette
+serie converge rapidement, de sorte que nous pouvons mettre
+
+(12) T=t÷t1=}k.
+
+1 lc 1
+
+Sedent, par exemple, Ῐεεῖ, b = 1 et par consequent ἴ Ξ-; nous
+
+avons done d'apres Ia formule (12)
+Τ = 1.
+
+Si nous supposons 3:0‚010 et 31=07⁰l2‚ 8 v‘ariant ainsi de 20 ⁰l0
+pendant l'experienoe⁷ nous trouvons la valeur exacte de T en nous ser-
+vant des formules (9) et (10)
+
+T: 1‚004.
+
+L'erreur qni pourrait resulter de Papplieation de la formule appro-
+ximative, en negligeant les tennes contenent s, ne pouvant monter que
+quelques milliemes de T, il est donc evident que nous avons ici une me-
+thode pour mesurer l’intensite caloiifique independamment des variations
+de la constante du refroidissement.
+
+Q etant la quant-ite du rayonnement que reeoit l'unite de surfaoe
+pendant Punite de temps, caQ est, par consequent, la radiation totale qu’a
+absorbee le oalorimetre. Mais cette quantite peut aussi etre exprimee
+par Pechauffement du calorinoetre, c’est-e-dire par sa valeur en eau D
+multipliee par b, oe qui nous donne
+
+caQ=Db.
+
