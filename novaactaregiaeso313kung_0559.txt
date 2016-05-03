@@ -1,0 +1,55 @@
+SUR UNE APPLICATION DE LA THEORIE DES EQUATIONS RINOMES OtC. 7
+
+Soit 111 tm nombre entier qni ext plns syram] (μω l'wzz'te', et (le'sifflzons
+star d ¹zm divisam· 2)osz't{s' (le m, qui est plns* petit que m, la totalite' (les
+mambres μθ, (μα’ sont ‹livisibles par (1, est st'ssale ὰ [a totalife‘ des nombres
+μ1 , qui xant divisibles par d.
+
+Nous distinguons les deux cas suivants:
+
+1) Si (l est un diviseur de
+
+7η
+
+P1P2' .--])-“ἲ ,
+
+ 
+
+tous les nombres μ sont divisibles par (l, et puisque la totalit& des
+nombres ιιο est &gale ἐι la rotulit& des nombres pc„ la proposition est
+dizmontrae dans ce cas.
+
+2> Dans le eas, oh <l ne divise pas
+
+m
+pl 2³2 . . . ΡΞ
+
+ 
+
+ 
+
+5
+
+posons d sous la forme
+(21) <l :23113122215'2 . . . pfs ;
+le nombre «l (Stant un diviseur de m on aura
+
+ΟΞβιὲα, , Οὲβὲἑαῖ , . . . Ο<β3<α5;
+
+puisque (l n'est pas un diviseur du nombre
+
+Plan-1 maz-1 . . . psas—1 ‚
+
+il y aura au moins un exposant β, qui est &gal ἐι l'exposant correspon-
+dant α, et puisque d est plus petit que m, il y aura au moins un expo-
+sant β, qui est plus petit que l’exposant correspondant α.
+
+En defisignant donc par
+
+βηβἩ-ηβι
+
+ceux des exposants β, qui sont¹ plus petits que les exposants α corre-
+spondants, et par
+
+s²³t÷1 7 βιψῖ 7 · · βε
+

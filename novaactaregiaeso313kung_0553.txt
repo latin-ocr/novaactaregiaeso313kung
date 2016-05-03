@@ -1,0 +1,32 @@
+I)ans ses legens sur la theorie des formes quadratiqnes binaires M.
+KRONECKER a introduit la notion de discriminant fondamental, et, il a
+donne oe noni ἢ tout, nombre Δ, qni n'est pas un nombre carre positis
+et qui est de l'une des trois formes suivantes:
+
+lzo) A=P,0{1 ΡΞ1, mod. 4,
+220) A=4P‚ on ΡΞ-Ι, mod. 4,
+310) A: 81³, 01⁸1 ΡΞΙ, mod. 2,
+
+pourvn que P desig-ne dans tous ees Cas un nombre entier, qni n'est.
+divisiblo par aucun nombre carre plus grand que Punite.
+En designant par
+(A)
+
+le sylnbole de LEGENDRE, generalis& par M. KRONECKER, et pan- ε le signe
+du nombre Δ, ainsi que l'on aura toujours
+
+s=‡l,sA>O‚
+
+le geometre illustre a demon'trf‘a la formule
+
+e) = fig? <ffl-
+
+oh ‘uz est un nombre entier positis ou zero, et
+
+ 
+
+(VX)=WX1 pom· Δ > 0 ,
+
+(VX) =i 'V-—Al pour Δ < O .
+Nova Aeta Reg. Soc. se. Ups. ser. 111. ι
+

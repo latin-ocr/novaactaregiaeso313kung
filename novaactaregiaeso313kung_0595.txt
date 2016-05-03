@@ -1,0 +1,51 @@
+MESURES DE LA CHALEUR RAYONNANTE. 5
+
+L'echauffemeut etant ici tres petit, on pourra done appliquer la
+loi de refroidissement de Newton, et nous aurens pour l'abaissement de
+temperatum du calorimbtre ἐι l'ombre
+
+(ΖΘ = — sedt,
+et pour l'fflevation de temperatum du calm-hnetre expos& it la radiation
+(lo = bdt — Sflclt.
+
+En integrant ees equations entre les valeurs t= 0 et τε t, on
+aura pour la premiere partie de l'experienee
+
+ 
+
+(3) θ = 0,'‘e-³‘‚
+et
+(4) logss—{{=—St,
+
+de meme on aura. pour la derniere partie de l'experience
+
+ 
+
+(5) 01‘= ‹ie-³¹⁰⁷
+et ,
+(6) κ>ςῑ)-Ὠ1θη = -sffi-
+b -s θ
+
+En eliminant 01⁸, θ’ et θ entre les equations (1), (3), (4) on aura
+
+b -Η
+(7) b÷slc=³ ⁷
+
+ 
+
+et en eliminant 6'', θ( et θ entre les equations (2), (5), (6) on aura
+
+(8) 2:57⁶ :fg-⁵11».
+
+ 
+
+Par les equations (7) et (8) on obtient
+
+(9) t=}{10g (b÷sk>-10gb)},
+
+et
+
+(10) t1 Ξ 2310g b -10g (b -s1k)} ‚
+
+31
+

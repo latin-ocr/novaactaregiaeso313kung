@@ -1,0 +1,40 @@
+SUB UNE APPLICATION DE LA 'runomu DEs &QUATmNs BINoMEs ete. 27
+
+qui est vraie pour tout discriminant fondamental positis Δ et pour tontes
+les valeurs reelles de la variable cc, qui satisfont aux conditione
+
+-1Ξατξ1,
+
+ξ. 9.
+
+Soit f(ae) une fonction reelle et rationelle de la variable reelle (c,
+et h, lc deux quantites reelles, et supposons⁷ que f(lz) soit une quantite
+finie‚ nous designetis par l'expression
+
+ἄξω)
+
+1’6Χ668 du nombre de fois7 que f(:e) devient infinie en passant du positis
+au negatif‚ sur le nombre de fois que f(:12) devient infinie en passant du
+negatis au positis, quand a: varie de „v = lz ὲ oe= ΙεΪ-εῌε-ἠ), οὺ ε est
+une quantite infiniment petite positive, avec la restriction, que cet exces
+sera diminue d'une unite dans les cas⁷ ou
+
+13133f<k-÷<1c—22»=-00.
+
+En posant 10:273, il s'ensuit que l'expression
+
+JZfGU)
+
+est une fonction de x, qui 11⁷est discontinue que pour les valeurs de sc,
+pour lesquelles la fonction f(oe) devient infinie. La fonction
+
+arc tngv)
+jouit evidemment de la meme propriete. Mais quoique les deux expressions
+(104) arc tgf(oe) ‚ nJfiva)
+
+sont en general des fonctions discontinues de la variable ω, on peut
+neanmoins demontrer‚ que leur somme sera une fonction continue pour
+tontes les valeurs reelles de x. Pour cela il suffit de rechercher, com-
+ment ces deux fonctions varient dans¹ le voisinage d'une valeur oe=ae1,
+pour laquelle f(oe) devient infinie. Soit ὃ une quantite aussi petite que
+

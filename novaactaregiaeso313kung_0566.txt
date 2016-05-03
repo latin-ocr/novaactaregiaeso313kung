@@ -1,0 +1,51 @@
+14 A. Benene,
+
+§a
+
+En designant par m un nombre entier positis, les m racines m. de
+requation bineme
+
+(w) ffl-1=O
+
+sont donnees par la formule
+
+21·πί
+
+(49) rh = e ⁷²¹ ,
+dans laquelle on donne au nombre entier lc les m valeurs consecutives
+(50) 1,2,3,....m,
+
+et celles des raeines de cette equation, qui n⁷appartiennent ὲ aucune
+equation de degre moindre et de meme forme, telle que
+
+(51) ιτ’·--ΙΞΟ7
+
+sont appelees des raeines primitives. Pour que rh. soit une raeine pri-
+mitive, il faut et il suffit, que le nombre k soit premier avec m, et par
+suite l'equation (48) a 90(m) recines primitives. Soit
+
+(52) ψζιυ , m) = Ο
+
+l'equation du degre φθῆ), dont le eoe'ffieient premier est egal a 1 et
+dont les raeines sont les raeines primitive-s de l⁷equation (48), et desig—
+nons par
+
+d d cl ...ἄμ
+
+172737
+
+tous les diviseurs positifs du nombre m, et par lc, ceux des nombres
+(50), qui ont le plus grand commun diviseur cl, aveo m, on aura l'identite
+
+2k57n'
+
+m„
+
+Mais les nombres lc, sont evidemment ceux des nombres
+
+ 
+
+(53) 51:⁷¹² - 1 =‘ δΙΞΙῗιζΙ (α’ - e
+
+Q,2Q‚fflffi..}ffi‚
+

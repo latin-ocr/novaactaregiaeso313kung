@@ -1,0 +1,44 @@
+SUR UNE APPLICATION DE LA THEORIE DEs EQUATIONS BIN6MES eto. 11
+
+T lze'orhme. Si l’on de'siyne par f (m) et F (m) (leuat fonctions, qui
+pour tous les nombre-s ἐπῆεν-8 positifs n] sont lie'es par la relation
+
+Fon) = md> ‚
+
+d
+
+οἵ( d parcourt tous les diviseurs positzij du nombre m, οη aura pour m> 1
+ΠΜ) = {FCUO —JFCaO 3
+et si les cleuae fonctions f (m) et F(m) som* lie'es pat· Za relation
+F(m) = dJIfQI')
+pour m} 1, οη aura pour m>l
+f(⁹‘⁷) ῃ HFQ)
+qma
+
+ 
+
+Dans ees deux cas les nombres μ0 et ,ιι1 sont deftermine's par la formale
+
+{uo—{ul=m(1-ss)(1-51{)(1--) ..... ‚
+
+de manibre que les nombres pto sont les termes positz'fs et les nombres -μ1
+sont les termes ne'yatzfs dans Ze produit du second membre.
+
+ξ. 3.
+
+Nous emploierons le symbole φ(τη), οὺ m est un nombre entier
+positif⁷ pour designer, combien il y a de nombres premiers ἓι m dans le
+
+groupe
+(34) 1,2‚3‚....m‚
+et nous d6signerons par
+
+d„d2‚d3‚...
+
+tous les diviseurs positifs du nombre m, et par ρ’ combien il y a de
+nombres dans le groupe (34), dont le plus grand commun diviseur avec
+m est &gal ἒι (1,. Cela Ροεὲ, la quantit& ρδῖ est &videmment §gale ὲ la
+totalit& des nombres
+
+d,‚2d„3ds‚...-}c1⁵‚
+
